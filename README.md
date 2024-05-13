@@ -12,5 +12,5 @@ Se EXP for entre 9.001 e 10.000= Imortal
 Se EXP for maior ou igual a 10.001 = Radiante
 
 Ao final deve se exibir uma mensagem:
-"O Herói de nome * (nome do heroi) está no nível de (nivel).
+"O Herói de nome * (nome do heroi) está no nível de (nivel)".
 
